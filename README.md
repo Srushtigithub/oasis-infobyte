@@ -1,2 +1,3 @@
 # oasis-infobyte
-internship
+WEB DEVELOPMENT INTERNSHIP
+LEVEL 1 TASKS
